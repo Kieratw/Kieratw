@@ -1,8 +1,6 @@
 # **Hello there! 👋**  
-# I'm  **Wojciech Kierat**
 
-
-I'm [Your Name], a dedicated computer science student at the Silesian University of Technology, with a robust foundation in various programming languages and a burgeoning passion for Artificial Intelligence (AI) and Machine Learning (ML).
+I'm Wojciech Kierat , a dedicated computer science student at the Silesian University of Technology, with a robust foundation in various programming languages and a burgeoning passion for Artificial Intelligence (AI) and Machine Learning (ML).
 
 ## 🚀 About Me
 
@@ -14,7 +12,7 @@ I'm [Your Name], a dedicated computer science student at the Silesian University
 
 ## 🔧 Skills & Tools
 
-- **Programming Languages:** C++, C#, Java, Python,Asm
+- **Programming Languages:** C++, C#, Java, Python, Asm
 - **Frameworks & Libraries:** PyTorch 
 - **Tools:** Git, Visual Studio, JetBrains
 
@@ -26,9 +24,7 @@ I'm [Your Name], a dedicated computer science student at the Silesian University
 
 ## 📫 Let's Connect
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **GitHub:** [Your GitHub Profile](https://github.com/yourusername)
+- **Email:** [wojciechkieratt@gmail.com](mailto:wojciechkieratt@gmail.com)
 
 
 ### GitHub Stats
