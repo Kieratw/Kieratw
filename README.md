@@ -30,7 +30,7 @@ I'm Wojciech Kierat , a dedicated computer science student at the Silesian Unive
 ### GitHub Stats
 
 <a href="#">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KieratW&theme=dark&hide_langs_below=1" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kieratw&theme=dark&hide_langs_below=1" />
 </a>
 
 ---
