@@ -34,4 +34,14 @@ I'm Wojciech Kierat , a dedicated computer science student at the Silesian Unive
 </a>
 
 ---
+### Projects
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kieratw&repo=Flappy-bird-AI&theme=dark)]([https://github.com/Kieratw/Flappy-bird-AI])
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kieratw&repo=HighPassFilter-ASM&theme=dark)]([https://github.com/Kieratw/HighPassFilter-ASM])
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kieratw&repo=Mario_Game_Clone&theme=dark)]([https://github.com/Kieratw/Mario_Game_Clone])
+
+
+---
 
