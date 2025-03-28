@@ -24,6 +24,7 @@ I'm Wojciech Kierat , a dedicated computer science student at the Silesian Unive
 
 ## 📫 Let's Connect
 
+<a href="https://www.linkedin.com/in/wojciech-kierat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Wojciech Kierat" height="30" width="40" /></a>
 - **Email:** [wojciechkieratt@gmail.com](mailto:wojciechkieratt@gmail.com)
 
 
