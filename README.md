@@ -13,7 +13,7 @@ I'm Wojciech Kierat , a dedicated computer science student at the Silesian Unive
 ## 🔧 Skills & Tools
 
 - **Programming Languages:** C++, C#, Java, Python, Asm
-- **Frameworks & Libraries:** PyTorch 
+- **Frameworks & Libraries:** PyTorch , .NET
 - **Tools:** Git, Visual Studio, JetBrains
 
 ## 🌱 Currently Learning
