@@ -16,7 +16,7 @@ I'm Wojciech Kierat, a computer science graduate from the Silesian University of
 
 - **Programming Languages:** C++, C#, Java, Python, Dart, SQL, Asm
 - **Frameworks & Libraries:** Flutter, PyTorch, .NET
-- **AI/ML:** CNN, Knowledge Distillation, TTA, PyTorch Mobile
+- **AI/ML:** CNN, Knowledge Distillation, TTA, PyTorch Mobile, LLM Integration, Prompt Engineering
 - **Data:** PostgreSQL, Data Warehousing, ETL
 - **Tools:** Git, Visual Studio, Android Studio, JetBrains
 
@@ -44,8 +44,12 @@ I'm Wojciech Kierat, a computer science graduate from the Silesian University of
 > Pipeline for training crop disease classification models using Knowledge Distillation and Test-Time Augmentation.  
 > 🔗 [cropdoc-trainer](https://github.com/Kieratw/cropdoc-trainer)
 
+### 🤖 AgriStack Advice API — LLM Expert Backend
+> Backend API providing AI-powered expert advice for crop disease treatment using LLM (Gemini) with prompt engineering.  
+> 🔗 [agristack-advice-api](https://github.com/Kieratw/agristack-advice-api)
+
 ### 🌾 Farm Data Warehouse *(in progress)*
-> Web application with a PostgreSQL-based data warehouse for managing and analyzing agricultural farm data.  
+> Web application for managing and analyzing agricultural farm data.  
 > 🔗 *link coming soon*
 
 ### 🎵 HighPassFilter-ASM
