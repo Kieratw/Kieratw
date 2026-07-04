@@ -50,7 +50,7 @@ I'm Wojciech Kierat, a computer science graduate from the Silesian University of
 
 ### 🌾 Farm Data Warehouse *(in progress)*
 > Web application for managing and analyzing agricultural farm data.  
-> 🔗 *link coming soon*
+> 🔗 [AgriOps](https://github.com/Kieratw/agriops-showcase)
 
 ### 🎵 HighPassFilter-ASM
 > Audio high-pass filter implemented in Assembly and C#.  
